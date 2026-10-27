@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c80dc9fc8ec01a44daf00253fa7922c5, type: 3}
+  m_Name: SpinPool_Bronze
+  m_EditorClassIdentifier: Assembly-CSharp::SpinRewardPool
+  spinType: 0
+  wheelSprite: {fileID: 21300000, guid: 2f4e42538a7db634d91dce5f6a568b11, type: 3}
+  indicatorSprite: {fileID: 21300000, guid: 1f5aa6f8ef318644a82683bca735ce87, type: 3}
+  bombSprite: {fileID: 21300000, guid: 399f6162c9da7fe4ab22de740896cef4, type: 3}
+  rewards:
+  - itemId: UI_icon_cash
+    displayName: Cash
+    icon: {fileID: 21300000, guid: d5cbf3f47ec532d47be4a72ec7d21847, type: 3}
+    possibleAmounts: 64000000fa000000f4010000
+  - itemId: UI_icon_gold
+    displayName: Gold
+    icon: {fileID: 21300000, guid: 0b39aa1f2b375bd4c8c842b86172b33a, type: 3}
+    possibleAmounts: 010000000200000005000000
+  - itemId: UI_icon_chest_small_noligt
+    displayName: "K\xFC\xE7\xFCk sand\u0131k"
+    icon: {fileID: 21300000, guid: df4dc092db05e064ab901870fa60903d, type: 3}
+    possibleAmounts: 010000000200000003000000
+  - itemId: UI_icon_chest_Bronze_nolight
+    displayName: "Bronz sand\u0131k"
+    icon: {fileID: 21300000, guid: 6e53eeacad5ef1c44bdeb6e49bcd24fa, type: 3}
+    possibleAmounts: 010000000200000003000000
+  - itemId: UI_icon_chest_standart_nolight
+    displayName: "Standart sand\u0131k"
+    icon: {fileID: 21300000, guid: 8223492ee1595c74b98dc826ed9d3f53, type: 3}
+    possibleAmounts: 0100000002000000
+  - itemId: UI_Icon_Renders_tier1_shotgun
+    displayName: Tier 1 shotgun
+    icon: {fileID: 21300000, guid: 12717ef97ac8be54e85c79df408d5bc5, type: 3}
+    possibleAmounts: 01000000
+  - itemId: ui_icon_render_cons_grenade_m26
+    displayName: M26
+    icon: {fileID: 21300000, guid: 97b16763788f6f743ba3f890ffbe2615, type: 3}
+    possibleAmounts: 010000000300000005000000
+  - itemId: ui_icon_render_cons_grenade_m67
+    displayName: M67
+    icon: {fileID: 21300000, guid: a1328c4ae4eee434cbc82e5ecf516c27, type: 3}
+    possibleAmounts: 010000000300000005000000
+  - itemId: ui_icon_render_t_cons_molotov
+    displayName: Molotof
+    icon: {fileID: 21300000, guid: 74f864098a825ac4985557c844ab7372, type: 3}
+    possibleAmounts: 0100000003000000
+  - itemId: UI_Icons_Pistol_Points
+    displayName: "Pistol puan\u0131"
+    icon: {fileID: 21300000, guid: 269161edb5c0d1d46a450b9435dc8238, type: 3}
+    possibleAmounts: 0a0000001900000032000000
+  - itemId: UI_Icons_Shotgun_Points
+    displayName: "Shotgun puan\u0131"
+    icon: {fileID: 21300000, guid: 200ccc08ab437b24c80fa81a0e15fc69, type: 3}
+    possibleAmounts: 0a0000001900000032000000
+  - itemId: UI_Icons_Vest_Points
+    displayName: "Vest puan\u0131"
+    icon: {fileID: 21300000, guid: 0159817936b1d3748834f0b33a3a1446, type: 3}
+    possibleAmounts: 0a0000001900000032000000
