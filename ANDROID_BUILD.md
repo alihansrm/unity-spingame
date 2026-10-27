@@ -61,7 +61,7 @@ Başla > Spin > ödül > Devam; aynı ödülün miktar artışı; Çıkış > ö
 bomba > kazançların silinmesi > ana menü; yeni oyunun sıfırlanması; iki yatay
 yön, ekran kesikleri ve arka plan müziği kontrol edilmeli.
 
-## Resmî kaynaklar
+## Resmi kaynaklar
 
 - [Unity Android build işlemi](https://docs.unity.com/en-us/engine/6000.0/manual/platform-specific/android/building-and-delivering/build-process)
 - [Unity USB ile cihaz bağlantısı](https://docs.unity.com/en-us/engine/6000.0/manual/platform-specific/android/developing/testing-and-debugging/debugging-on-an-android-device)
